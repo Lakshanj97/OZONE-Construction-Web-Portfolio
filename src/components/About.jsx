@@ -51,13 +51,12 @@ function About() {
               Ozone Construction Company – Your Trusted Home Builder in Sri
               Lanka
             </p>
-            Specializing in planning and constructing quality homes, Ozone
-            Construction combines innovative design, skilled craftsmanship, and
-            reliable service to bring your dream home to life. From modern
-            villas to cozy family houses, we deliver durable, stylish, and
-            affordable living spaces—on time and within budget.
-
-            <p className="mt-4 font-bold text-lg">Build with confidence. Build with Ozone.</p>
+            Bringing your dream home to life through innovative design and
+            skilled craftsmanship. Ozone Construction delivers durable, stylish,
+            and affordable living spaces—on time and within budget.
+            <p className="mt-4 font-bold text-lg">
+              Build with confidence. Build with Ozone.
+            </p>
           </p>
           <button className="bg-blue-500 text-white px-8 py-2 rounded">
             Learn More
