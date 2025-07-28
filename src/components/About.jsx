@@ -24,7 +24,7 @@ function About() {
       <div className="flex flex-col md:flex-row items-center md:items-start md:gap-20 ">
         <img
           src={assets.brand_img}
-          className="w-full sm:w-1/2 max-w-lg  rounded-3xl h"
+          className="w-full sm:w-1/2 max-w-lg  rounded-3xl h-150 object-cover"
           alt=""
         />
         <div className="flex flex-col item-center md:items-start mt-10 text-gray-600">
